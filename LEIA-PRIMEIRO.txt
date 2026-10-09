@@ -1,0 +1,1 @@
+BRAITT My Management v1.6 — Tela inicial: Entrada inteligente. Publique os arquivos descompactados no MESMO site agendatais do Netlify. Antes, exporte um backup dos dados. Não há sincronização entre aparelhos ou IA generativa.
